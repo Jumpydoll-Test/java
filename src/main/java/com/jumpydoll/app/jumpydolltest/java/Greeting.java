@@ -1,4 +1,4 @@
-package com.jumpydoll.app.jumpydolltest.springbootservice;
+package com.jumpydoll.app.jumpydolltest.java;
 
 public class Greeting {
 

@@ -1,4 +1,4 @@
-package com.jumpydoll.app.jumpydolltest.springbootservice;
+package com.jumpydoll.app.jumpydolltest.java;
 
 import java.util.concurrent.atomic.AtomicLong;
 
